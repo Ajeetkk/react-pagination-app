@@ -1,0 +1,10 @@
+ul {
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: red;
+}
+
+li {
+    display: inline-block;
+}
